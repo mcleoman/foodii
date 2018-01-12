@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Foodii</string>
+
+    <string name="google_map_api_key">AIzaSyBN-j1JXR9UFcQDjB8H_Xaqn7vIZT-FqEk</string>
+</resources>
